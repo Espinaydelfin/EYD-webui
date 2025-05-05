@@ -1,3 +1,7 @@
+“This project is a customized fork of Open WebUI, the community-driven open-source AI platform. This release is not affiliated with or maintained by the official Open WebUI team.”
+
+
+
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
